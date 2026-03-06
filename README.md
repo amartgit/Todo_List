@@ -39,3 +39,33 @@ This app is fully **responsive** and works on desktops, tablets, and mobile devi
 ---
 
 ## Project Structure
+
+
+Todo_List/
+│
+├─ index.html # Main HTML page
+├─ style.css # Styling for the app
+├─ main.js # JavaScript functionality
+├─ README.md # Project documentation
+└─ assets/ # (Optional) images/icons
+
+
+---
+
+## Usage
+1. **Add Task:** Type a task in the input field and press `Enter` or click `Add`.  
+2. **Edit Task:** Click the edit icon next to a task to update it.  
+3. **Complete Task:** Click the checkbox to mark a task as done.  
+4. **Delete Task:** Click the trash icon to remove a task permanently.  
+5. **Persistent Storage:** Tasks remain even after refreshing the page, thanks to **local storage**.
+
+---
+
+## Author
+**Amar Tarmale**  
+Internship Project – Front-End Development  
+
+---
+
+## License
+This project is open for personal and educational use. Modify and deploy freely.
