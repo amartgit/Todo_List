@@ -6,6 +6,8 @@ It allows users to **add, edit, mark as completed, and delete tasks**, with **pe
 
 This app is fully **responsive** and works on desktops, tablets, and mobile devices.
 
+[View Live](https://amartgit.github.io/Todo_List/) 
+
 ---
 
 ## Features
@@ -69,3 +71,4 @@ Internship Project – Front-End Development
 
 ## License
 This project is open for personal and educational use. Modify and deploy freely.
+
